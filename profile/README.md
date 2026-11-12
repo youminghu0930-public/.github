@@ -8,6 +8,8 @@ Turning ordinary video into useful movement insights.
 
 [**Explore my portfolio →**](https://youminghu0930-public.github.io/)
 
+[About me on GitHub →](https://github.com/youminghu0930)
+
 </div>
 
 ---
